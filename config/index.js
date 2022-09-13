@@ -27,7 +27,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oXalv6Xjr8_GNin-K88zafkmCRdM",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "178MV52k0j0aJkgktLiw8HQhiKWinNNXDhG5GS0bsSI",
+      useTemplateId: "yo-G4_Os-Y4aOp6qe3iezcbbsn_CQIY7WKcLs5SPWYA	",
       // 所在省份
       province: "浙江",
       // 所在城市
@@ -47,13 +47,12 @@ export const config = {
     {
       name: "自己",
       id: "oXalv6Qe1JL4VY6PijAYsRxgdhYw",
-      useTemplateId: "178MV52k0j0aJkgktLiw8HQhiKWinNNXDhG5GS0bsSI",
+      useTemplateId: "uS1MUjz9pE2Ml3f6Padcwe9j8wBEAeBweVGQJoZSVQ8	",
       province: "浙江",
       city: "杭州",
       horoscopeDate: '08-13',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: [],
       customizedDateList: [
       // 在一起的日子
         {"keyword": "love_day", date: "2022-02-28"},
@@ -115,7 +114,7 @@ export const config = {
   FESTIVALS: [
     // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
     // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
-    {"type": "生日", "name": "老婆", "year": "1997", "date": "11-05", isShowAge: true},
+    {"type": "生日", "name": "yusi", "year": "1997", "date": "11-05", isShowAge: true},
     {"type": "节日", "name": "春节", "year": "2023", "date": "01-22"},
     {"type": "节日", "name": "元旦", "year": "2023", "date": "01-01"},
     {"type": "节日", "name": "国庆", "year": "2022", "date": "10-01"},
