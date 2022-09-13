@@ -59,10 +59,10 @@ export const config = {
     },
     {
       name: "老婆1",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
+      id: "oXalv6Xjr8_GNin-K88zafkmCRdM",
+      useTemplateId: "178MV52k0j0aJkgktLiw8HQhiKWinNNXDhG5GS0bsSI",
+      province: "浙江",
+      city: "杭州",
       horoscopeDate: '',
       horoscopeDateType: '',
       openUrl: "https://wangxinleo.cn",
@@ -80,19 +80,7 @@ export const config = {
       openUrl: "https://wangxinleo.cn",
       festivals: [],
       customizedDateList: []
-    },
-    {
-      name: "老婆3",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
+    }
     // 你可以不断按格式往下增加
     // ...
   ],
