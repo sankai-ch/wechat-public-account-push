@@ -47,7 +47,7 @@ export const config = {
     {
       name: "自己",
       id: "oXalv6Qe1JL4VY6PijAYsRxgdhYw",
-      useTemplateId: "q6nYsz960mf-XyHcR-GI_LlRymorxYTwSA9nazzo6fo",
+      useTemplateId: "YERD-hfSKwBZNiQk471wdgDNOu04PxnzeWr4SdDEXDs",
       province: "浙江",
       city: "杭州",
       horoscopeDate: '08-13',
